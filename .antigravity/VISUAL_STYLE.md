@@ -11,6 +11,7 @@ When generating character avatars (Slepoi, Sphinx, etc.):
 - **Technique:** Use "Style Transfer" to apply the sketchy, charcoal look from `@example-1.jpg` to the character descriptions in `relationships.json`.
 - **Composition:** Portrait close-ups with shallow depth of field. Characters should have slightly exaggerated, haunting features consistent with the book's vibe.
 - **Consistency:** Ensure all the characters share the same "hand-drawn" lighting and stroke-weight.
+- All the characters are teenagers.
 
 ## 3. Web UI Elements
 - **Graph Nodes:** Instead of flat circles, nodes should look like old, pinned-up polaroids or charcoal sketches.

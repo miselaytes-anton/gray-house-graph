@@ -147,149 +147,64 @@
   ],
   "links": [
     {
-      "source": "sfinks",
-      "target": "slepoi",
-      "type": "давняя дружба и совместное руководство группой"
-    },
-    {
-      "source": "los",
-      "target": "slepoi",
-      "type": "был духовным наставником и фигурой отца"
-    },
-    {
-      "source": "los",
-      "target": "sfinks",
-      "type": "дал кличку Кузнечик и заботился в детстве"
-    },
-    {
-      "source": "slepoi",
-      "target": "pompey",
-      "type": "убил в поединке за лидерство"
-    },
-    {
-      "source": "shakal-tabaki",
+      "source": "akula",
       "target": "kurilshchik",
-      "type": "дал инструкции по выживанию и переселению"
-    },
-    {
-      "source": "sfinks",
-      "target": "kurilshchik",
-      "type": "проводил философские беседы в туалете"
-    },
-    {
-      "source": "lord",
-      "target": "kurilshchik",
-      "type": "выбил зуб при первом знакомстве"
-    },
-    {
-      "source": "chernyi",
-      "target": "sfinks",
-      "type": "вражда со времен детства и Спортсмена"
-    },
-    {
-      "source": "makedonskii",
-      "target": "sfinks",
-      "type": "служит Сфинксу, искупая свою вину"
-    },
-    {
-      "source": "stervyatnik",
-      "target": "ralph",
-      "type": "передает тайную информацию о Доме"
-    },
-    {
-      "source": "ryzhaya",
-      "target": "sfinks",
-      "type": "назвала Кузнечиком в детстве (крестная)"
-    },
-    {
-      "source": "rusalka",
-      "target": "sfinks",
-      "type": "романтическая привязанность"
-    },
-    {
-      "source": "lord",
-      "target": "ryzhaya",
-      "type": "безответная страсть и ухаживания"
-    },
-    {
-      "source": "ralph",
-      "target": "slepoi",
-      "type": "противостояние и попытки допроса"
-    },
-    {
-      "source": "shakal-tabaki",
-      "target": "lord",
-      "type": "подарил магическую записку-напоминалку"
-    },
-    {
-      "source": "gorbach",
-      "target": "slepoi",
-      "type": "согласился быть Крысоловом для неразумных"
-    },
-    {
-      "source": "sedoi",
-      "target": "kurilshchik",
-      "type": "подарил амулет в детстве"
+      "type": "Перевел в другую группу после конфликта из-за красных кроссовок"
     },
     {
       "source": "akula",
       "target": "ralph",
-      "type": "административный конфликт интересов"
-    },
-    {
-      "source": "dzhin",
-      "target": "kurilshchik",
-      "type": "организовал обсуждение обуви"
-    },
-    {
-      "source": "leri",
-      "target": "spitsa",
-      "type": "любовь и намерение пожениться"
-    },
-    {
-      "source": "makedonskii",
-      "target": "slepoi",
-      "type": "Слепой снял с него груз вины за смерть Волка"
+      "type": "Административный конфликт интересов"
     },
     {
       "source": "chernyi",
       "target": "kurilshchik",
-      "type": "беседы о Наружности и искусстве"
+      "type": "Беседы о Наружности и искусстве"
     },
     {
-      "source": "stervyatnik",
-      "target": "sfinks",
-      "type": "просьба передать просьбу Табаки"
-    },
-    {
-      "source": "ralph",
+      "source": "chernyi",
       "target": "kurilshchik",
-      "type": "назначил своим тайным осведомителем (дневник)"
+      "type": "Стал его близким другом и менеджером в Наружности"
     },
     {
-      "source": "shakal-tabaki",
-      "target": "ryzhaya",
-      "type": "подарил свои носки и заботился"
+      "source": "chernyi",
+      "target": "leri",
+      "type": "Вместе планировали уезд на автобусе"
     },
     {
       "source": "chernyi",
       "target": "pompey",
-      "type": "борьба за власть внутри Псов"
+      "type": "Борьба за власть внутри Псов"
     },
     {
-      "source": "sfinks",
-      "target": "sedoi",
-      "type": "встреча в финале как двух Ходоков"
+      "source": "chernyi",
+      "target": "sfinks",
+      "type": "Вечные соперники, конфликтовали из-за лидерства и взглядов."
     },
     {
-      "source": "slepoi",
-      "target": "ryzhaya",
-      "type": "игнорирует её чувства"
+      "source": "chernyi",
+      "target": "slepoi",
+      "type": "Кровавая драка в Четвертой"
     },
     {
-      "source": "lord",
-      "target": "ralph",
-      "type": "Ральф забрал его из психиатрической клиники"
+      "source": "dzhin",
+      "target": "kurilshchik",
+      "type": "Организовал обсуждение обуви и исключение"
+    },
+    {
+      "source": "gorbach",
+      "target": "kurilshchik",
+      "type": "Связал ему свитер с бусинами"
+    },
+    {
+      "source": "gorbach",
+      "target": "slepoi",
+      "type": "Согласился быть Крысоловом для неразумных"
+    },
+    {
+      "source": "kurilshchik",
+      "target": "chernyi",
+      "type": "Сблизились в финале, Черный предлагал ему место у Псов."
     },
     {
       "source": "kurilshchik",
@@ -297,94 +212,9 @@
       "type": "Македонский ухаживал за ним после Могильника"
     },
     {
-      "source": "shakal-tabaki",
-      "target": "slepoi",
-      "type": "укрывал Слепого во время Самой Длинной Ночи"
-    },
-    {
-      "source": "stervyatnik",
-      "target": "slepoi",
-      "type": "договор вожаков о порядке в Доме"
-    },
-    {
-      "source": "chernyi",
-      "target": "slepoi",
-      "type": "кровавая драка в Четвертой"
-    },
-    {
-      "source": "ralph",
-      "target": "stervyatnik",
-      "type": "Ральф спас Стервятника от безумия в детстве"
-    },
-    {
       "source": "kurilshchik",
       "target": "ryzhaya",
       "type": "Рыжая доверила ему своего медведя"
-    },
-    {
-      "source": "sfinks",
-      "target": "makedonskii",
-      "type": "заставил его «присутствовать» и иметь маску"
-    },
-    {
-      "source": "shakal-tabaki",
-      "target": "rusalka",
-      "type": "совместная охота за вещами"
-    },
-    {
-      "source": "gorbach",
-      "target": "kurilshchik",
-      "type": "связал ему свитер с бусинами"
-    },
-    {
-      "source": "leri",
-      "target": "lord",
-      "type": "Лорд подарил ему свои рубашки"
-    },
-    {
-      "source": "slepoi",
-      "target": "makedonskii",
-      "type": "Слепой использует его способности для Дома"
-    },
-    {
-      "source": "ralph",
-      "target": "sedoi",
-      "type": "беседа о прошлом и будущем в библиотеке"
-    },
-    {
-      "source": "shakal-tabaki",
-      "target": "stervyatnik",
-      "type": "споры о коллекции и вещах"
-    },
-    {
-      "source": "sfinks",
-      "target": "lord",
-      "type": "учил его ползать и выживать без коляски"
-    },
-    {
-      "source": "slepoi",
-      "target": "kurilshchik",
-      "type": "запретил ему гулять по ночам"
-    },
-    {
-      "source": "chernyi",
-      "target": "leri",
-      "type": "вместе планировали уезд на автобусе"
-    },
-    {
-      "source": "rusalka",
-      "target": "slepoi",
-      "type": "Слепой сомневался в её человеческой природе"
-    },
-    {
-      "source": "shakal-tabaki",
-      "target": "gorbach",
-      "type": "совместные музыкальные сессии"
-    },
-    {
-      "source": "stervyatnik",
-      "target": "lord",
-      "type": "совместное питье и откровения"
     },
     {
       "source": "kurilshchik",
@@ -392,9 +222,294 @@
       "type": "Курильщик боится и не понимает Слепого"
     },
     {
+      "source": "leri",
+      "target": "lord",
+      "type": "Лорд подарил ему свои рубашки"
+    },
+    {
+      "source": "leri",
+      "target": "spitsa",
+      "type": "Любовь и намерение пожениться"
+    },
+    {
+      "source": "lord",
+      "target": "kurilshchik",
+      "type": "Выбил зуб в столовой при первой встрече"
+    },
+    {
+      "source": "lord",
+      "target": "kurilshchik",
+      "type": "Извинился и угостил Лунной дорогой в Кофейнике"
+    },
+    {
+      "source": "lord",
+      "target": "ralph",
+      "type": "Ральф забрал его из психиатрической клиники"
+    },
+    {
+      "source": "lord",
+      "target": "ryzhaya",
+      "type": "Влюблен и защищал в столовой"
+    },
+    {
+      "source": "los",
+      "target": "sfinks",
+      "type": "Дал кличку Кузнечик и заботился в детстве"
+    },
+    {
+      "source": "los",
+      "target": "sfinks",
+      "type": "Опекал в детстве и поселил вместе со Слепым"
+    },
+    {
+      "source": "los",
+      "target": "slepoi",
+      "type": "Привел в Дом и защищал от других детей"
+    },
+    {
+      "source": "makedonskii",
+      "target": "kurilshchik",
+      "type": "Приносил кофе в туалет"
+    },
+    {
+      "source": "makedonskii",
+      "target": "sfinks",
+      "type": "Служит ему, признался ему в убийстве Волка."
+    },
+    {
+      "source": "makedonskii",
+      "target": "sfinks",
+      "type": "Служил Сфинксу, пытаясь искупить свою сущность"
+    },
+    {
+      "source": "makedonskii",
+      "target": "slepoi",
+      "type": "Слепой снял с него груз вины за смерть Волка"
+    },
+    {
+      "source": "ralph",
+      "target": "kurilshchik",
+      "type": "Назначил своим тайным осведомителем"
+    },
+    {
+      "source": "ralph",
+      "target": "sedoi",
+      "type": "Беседа о прошлом и будущем в библиотеке"
+    },
+    {
+      "source": "ralph",
+      "target": "slepoi",
+      "type": "Подозревал в убийстве Помпея и допрашивал"
+    },
+    {
+      "source": "ralph",
+      "target": "stervyatnik",
+      "type": "Ральф спас Стервятника от безумия в детстве"
+    },
+    {
+      "source": "ralph",
+      "target": "stervyatnik",
+      "type": "Предупредил его об интригах Крёстной и подменил его в списке на выбывание."
+    },
+    {
+      "source": "rusalka",
+      "target": "sfinks",
+      "type": "романтическая привязанность"
+    },
+    {
+      "source": "rusalka",
+      "target": "sfinks",
+      "type": "Стала его возлюбленной и ушла с ним в Наружность"
+    },
+    {
+      "source": "rusalka",
+      "target": "slepoi",
+      "type": "Слепой сомневался в её человеческой природе"
+    },
+    {
+      "source": "ryzhaya",
+      "target": "lord",
+      "type": "Стала его возлюбленной после принятия Нового закона"
+    },
+    {
+      "source": "ryzhaya",
+      "target": "sfinks",
+      "type": "Назвала Кузнечиком в детстве (крестная)"
+    },
+    {
+      "source": "ryzhaya",
+      "target": "slepoi",
+      "type": "Тайно влюблена в него с детства"
+    },
+    {
+      "source": "sedoi",
+      "target": "kurilshchik",
+      "type": "Подарил амулет в детстве"
+    },
+    {
+      "source": "sfinks",
+      "target": "kurilshchik",
+      "type": "Проводил философские беседы в туалете"
+    },
+    {
+      "source": "sfinks",
+      "target": "kurilshchik",
+      "type": "Дал кличку Курильщик"
+    },
+    {
+      "source": "sfinks",
+      "target": "lord",
+      "type": "Учил его ползать и выживать без коляски"
+    },
+    {
+      "source": "sfinks",
+      "target": "los",
+      "type": "Был его любимым учеником, получал от него книги и поддержку."
+    },
+    {
       "source": "sfinks",
       "target": "ralph",
       "type": "Ральф видит в Сфинксе ключ к Дому"
+    },
+    {
+      "source": "sfinks",
+      "target": "rusalka",
+      "type": "Встретил и полюбил в финале книги"
+    },
+    {
+      "source": "sfinks",
+      "target": "sedoi",
+      "type": "Встретились в финале как два Ходока"
+    },
+    {
+      "source": "sfinks",
+      "target": "slepoi",
+      "type": "Связаны неразрывной дружбой с детства"
+    },
+    {
+      "source": "shakal-tabaki",
+      "target": "chernyi",
+      "type": "Иронизировал над его физической силой"
+    },
+    {
+      "source": "shakal-tabaki",
+      "target": "gorbach",
+      "type": "Вместе играли на музыкальных сессиях"
+    },
+    {
+      "source": "shakal-tabaki",
+      "target": "kurilshchik",
+      "type": "Снарядил вещами для изолятора"
+    },
+    {
+      "source": "shakal-tabaki",
+      "target": "kurilshchik",
+      "type": "Подарил амулет и рассказал историю Дома"
+    },
+    {
+      "source": "shakal-tabaki",
+      "target": "lord",
+      "type": "Подарил шестеренку от часов, став посредником в возвращении на Круг"
+    },
+    {
+      "source": "shakal-tabaki",
+      "target": "lord",
+      "type": "Подшучивал и провоцировал на споры"
+    },
+    {
+      "source": "shakal-tabaki",
+      "target": "lord",
+      "type": "Провел для него ритуал возвращения во времени («подарил колесико»)."
+    },
+    {
+      "source": "shakal-tabaki",
+      "target": "rusalka",
+      "type": "Вместе охотились за вещами"
+    },
+    {
+      "source": "shakal-tabaki",
+      "target": "ryzhaya",
+      "type": "Подарил ей свои носки и заботился"
+    },
+    {
+      "source": "shakal-tabaki",
+      "target": "sfinks",
+      "type": "Дразнил его за лысину и долгое знакомство"
+    },
+    {
+      "source": "shakal-tabaki",
+      "target": "slepoi",
+      "type": "Укрывал Слепого во время Самой Длинной Ночи"
+    },
+    {
+      "source": "shakal-tabaki",
+      "target": "stervyatnik",
+      "type": "Спорил с ним о коллекции и вещах"
+    },
+    {
+      "source": "slepoi",
+      "target": "kurilshchik",
+      "type": "Запретил ему гулять по ночам"
+    },
+    {
+      "source": "slepoi",
+      "target": "kurilshchik",
+      "type": "Напугал убийством Помпея на глазах у всей школы"
+    },
+    {
+      "source": "slepoi",
+      "target": "kurilshchik",
+      "type": "Подарил пакет с редкими кассетами 'Led Zeppelin'"
+    },
+    {
+      "source": "slepoi",
+      "target": "los",
+      "type": "Считал его своим богом и единственным близким взрослым."
+    },
+    {
+      "source": "slepoi",
+      "target": "makedonskii",
+      "type": "Слепой использует его способности для Дома"
+    },
+    {
+      "source": "slepoi",
+      "target": "pompey",
+      "type": "Убил его в поединке в спортзале во время Самой Длинной Ночи."
+    },
+    {
+      "source": "slepoi",
+      "target": "ryzhaya",
+      "type": "Игнорирует её чувства"
+    },
+    {
+      "source": "slepoi",
+      "target": "sfinks",
+      "type": "Лучшие друзья и соратники на протяжении всей жизни в Доме"
+    },
+    {
+      "source": "stervyatnik",
+      "target": "lord",
+      "type": "Проявил сострадание и плакал на его плече"
+    },
+    {
+      "source": "stervyatnik",
+      "target": "sfinks",
+      "type": "Просил передать Табаки просьбу о возвращении брата"
+    },
+    {
+      "source": "stervyatnik",
+      "target": "sfinks",
+      "type": "Советуется с ним в Ночь Сказок и делит тайны Изнанки."
+    },
+    {
+      "source": "stervyatnik",
+      "target": "sfinks",
+      "type": "Обменивался тайнами и советовался в Ночь Сказок"
+    },
+    {
+      "source": "stervyatnik",
+      "target": "slepoi",
+      "type": "Договор вожаков о порядке в Доме"
     }
   ]
 }
