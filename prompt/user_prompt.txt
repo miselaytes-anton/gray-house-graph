@@ -1,0 +1,2 @@
+Analyze the attached book and extract the character nodes and relationship links according to the defined schema.
+There must be at least 100 links generated

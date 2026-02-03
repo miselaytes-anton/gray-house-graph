@@ -1,0 +1,80 @@
+{
+  "type": "object",
+  "properties": {
+    "nodes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Unique kebab-case ID based on the nickname (e.g. kurilshchik)"
+          },
+          "mainNickname": {
+            "type": "string",
+            "description": "Кличка персонажа (например Курильщик, Слепой, Сфинкс)"
+          },
+          "alternativeNicknames": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Альтернативные клички персонажа в более юном возрасте (например Сфинкс - Кузнечик, Чёрный - Спортсмен, Белобрысый)"
+          },
+          "persona": {
+            "type": "string",
+            "description": "Краткое описание персонажа. Например, Слепой - вожак всего Дома. Невысокий, щуплый, очень бледный, черноволосый, с сильно отросшей, закрывающей глаза чёлкой и очень длинными, подвижными пальцами рук. Неопрятен. По природе слеп, но ловок и крайне опасен в битве один на один. Имеет склонность к ликантропии; персонаж, как и все здесь, с непростой судьбой и слишком ошеломляющим и тяжелым входом в подростковую жизнь. Является Ходоком."
+          },
+          "group": {
+            "type": "string",
+            "enum": [
+              "Фазаны",
+              "Крысы",
+              "Птицы",
+              "Псы",
+              "Четвертая",
+              "Воспитатели",
+              "Прочие"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "mainNickname",
+          "alternativeNicknames",
+          "persona",
+          "group"
+        ]
+      }
+    },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "source": {
+            "type": "string",
+            "description": "ID of the source character"
+          },
+          "target": {
+            "type": "string",
+            "description": "ID of the target character"
+          },
+          "type": {
+            "type": "string",
+            "description": "Краткое описание важного действия (например, подарил амулет, рассказал историю дома, издевался по приезду, защищал)"
+          }
+        },
+        "required": [
+          "source",
+          "target",
+          "type"
+        ]
+      }
+    }
+  },
+  "required": [
+    "nodes",
+    "links"
+  ]
+}

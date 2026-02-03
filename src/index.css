@@ -1,0 +1,32 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600;700&display=swap');
+
+@theme {
+  --font-serif: "Crimson Pro", serif;
+
+  --color-sepia-50: #fdfbf7;
+  --color-sepia-100: #fbf7ef;
+  --color-sepia-200: #f5ebd6;
+  --color-sepia-300: #eddcb5;
+  --color-sepia-400: #e2c58e;
+  --color-sepia-500: #d4a355;
+  --color-sepia-600: #bc8641;
+  --color-sepia-700: #9b6635;
+  --color-sepia-800: #7f5131;
+  --color-sepia-900: #68432a;
+  --color-sepia-950: #3a2315;
+
+  --color-slate-850: #1a202c;
+  --color-slate-900: #0f172a;
+  --color-slate-950: #020617;
+
+  --image-parchment: url('/assets/parchment-texture.jpg');
+}
+
+@layer base {
+  body {
+    font-family: var(--font-serif);
+    background-color: var(--color-slate-900);
+    color: var(--color-sepia-100);
+  }
+}
