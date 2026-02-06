@@ -21,6 +21,7 @@ export function GraphCanvas() {
   const fgRef =
     useRef<ForceGraphMethods<CharacterNode, RelationshipLink>>(undefined);
   const imagesRef = useRef<Record<string, HTMLImageElement>>({});
+  const hasInitialZoomedRef = useRef(false);
 
   useEffect(() => {
     if (fgRef.current) {
@@ -189,7 +190,10 @@ export function GraphCanvas() {
         cooldownTicks={100}
         d3AlphaDecay={0.02}
         onEngineStop={() => {
-          fgRef.current?.zoom(8, 500);
+          if (!hasInitialZoomedRef.current) {
+            fgRef.current?.zoom(8, 500);
+            hasInitialZoomedRef.current = true;
+          }
         }}
       />
     </div>
