@@ -1,9 +1,10 @@
 @import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Rubik+Microbe&display=swap');
 
 @theme {
   --font-serif: "Merriweather", serif;
   --font-sans: "Inter", sans-serif;
+  --font-microbe: "Rubik Microbe", system-ui;
 
   --color-sepia-50: #fdfbf7;
   --color-sepia-100: #fbf7ef;
@@ -20,8 +21,6 @@
   --color-slate-850: #1a202c;
   --color-slate-900: #0f172a;
   --color-slate-950: #020617;
-
-  --image-parchment: url('/src/assets/parchment-texture.png');
 }
 
 @layer base {
