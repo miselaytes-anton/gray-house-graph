@@ -31,6 +31,9 @@ export function GraphCanvas() {
       fgRef.current.d3Force("charge")?.strength(-100);
       // Longer links for more breathing room - reduced to make graph denser (zoomed in effect)
       fgRef.current.d3Force("link")?.distance(50);
+      
+      // Set initial zoom level
+      fgRef.current.zoom(8, 5000);
     }
   }, []);
 
@@ -188,9 +191,6 @@ export function GraphCanvas() {
         nodeRelSize={6}
         cooldownTicks={100}
         d3AlphaDecay={0.02}
-        onEngineStop={() => {
-          fgRef.current?.zoom(8, 500);
-        }}
       />
     </div>
   );
