@@ -8,7 +8,7 @@ Used [Google AI Studio](https://aistudio.google.com) to generate JSON with chara
 
 ## The app
 
-The app is a React app that visualizes the relationships between characters in the book. It uses the `react-force-graph-2d` library to create a force-directed graph based on the relationships data. It is completely vibe-coded and the code itself is therefore of no particular value, but it is worth checking the `./antigravity` folder for the various instructions which were provided to the agent.
+The app is a React app that visualizes the relationships between characters in the book. It uses the `react-force-graph-2d` library to create a force-directed graph based on the relationships data. It is completely vibe-coded and the code itself is therefore of no particular value, but it is worth checking the `./context` folder for the various instructions which were provided to the agent.
 
 ## Avatar images
 

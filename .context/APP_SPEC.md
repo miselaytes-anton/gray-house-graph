@@ -7,7 +7,4 @@
    - Nodes: Labeled with Character Nicknames.
 2. **Character Dossier (Side Panel):** Triggered by clicking a node.
    - Display: Persona, Group, and a list of their specific connections.
-
-## User Experience
-- Refer to VISUAL_STYLE.md for detailed instruction on the app "look and feel"
-- Use "Nano Banana" to generate background images and avatars
+   - Use "Nano Banana" to generate background images and avatars

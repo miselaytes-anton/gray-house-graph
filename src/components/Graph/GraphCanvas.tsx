@@ -140,7 +140,7 @@ export function GraphCanvas() {
 
           ctx.drawImage(avatarImg, drawX, drawY, drawW, drawH);
           ctx.restore();
-        } catch (e) {
+        } catch {
           // error
         }
       }
@@ -178,6 +178,7 @@ export function GraphCanvas() {
 
   return (
     <div className="w-full h-full bg-transparent">
+      {/* eslint-disable @typescript-eslint/no-explicit-any */}
       <ForceGraph2D
         ref={fgRef}
         graphData={data}
@@ -192,6 +193,7 @@ export function GraphCanvas() {
         cooldownTicks={100}
         d3AlphaDecay={0.02}
       />
+      {/* eslint-enable @typescript-eslint/no-explicit-any */}
     </div>
   );
 }
