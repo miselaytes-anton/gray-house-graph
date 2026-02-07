@@ -1,6 +1,6 @@
-# Gray house character relationships visualization
+# "Gray house" character relationships visualization
 
-This is vibe-coding experiment to create a character relationships visualization for "Gray house" book by Mariam Petrosyan
+This is vibe-coding experiment to create a character relationships visualization for "Gray house" book by Mariam Petrosyan.
 
 ## The relationship data
 
