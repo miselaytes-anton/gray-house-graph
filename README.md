@@ -12,4 +12,4 @@ The app is a React app that visualizes the relationships between characters in t
 
 ## Avatar images
 
-Those are generated using [Nano Banana](https://nanobanana.ai).
+Those are generated using [Nano Banana](https://gemini.google/overview/image-generation/).
