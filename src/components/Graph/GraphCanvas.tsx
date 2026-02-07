@@ -33,7 +33,7 @@ export function GraphCanvas() {
       fgRef.current.d3Force("link")?.distance(50);
       
       // Set initial zoom level
-      fgRef.current.zoom(8, 5000);
+      fgRef.current.zoom(6, 5000);
     }
   }, []);
 
